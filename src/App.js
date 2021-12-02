@@ -8,10 +8,11 @@ function App() {
   return (
     <div>
       <Header />
-      <div className="balance-container">
+      <div className="container">
         <Balance/>
+        <IncomeExpense/>
       </div>
-      <IncomeExpense/>
+      
     </div>
   );
 }
