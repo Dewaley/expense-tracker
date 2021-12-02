@@ -22,3 +22,6 @@ body {
 h2 {
     font-size: 2rem;
 }
+h4 {
+    text-transform: uppercase;
+}
